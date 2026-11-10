@@ -1,5 +1,9 @@
 # Archived X screenshot — @elonmusk
 
+![Screenshot of the X post by @elonmusk](./screenshot.png)
+
+[Full-size image](./screenshot.png) · [Full metadata](./metadata.json)
+
 | Record | Value |
 |---|---|
 | Original post | https://x.com/elonmusk/status/2120100775938621513 |
