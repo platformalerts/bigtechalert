@@ -1,0 +1,41 @@
+{
+    "schema_version": 1,
+    "capture_id": "2120516913415770580-20261111T143108Z-c50015705227",
+    "tweet_id": "2120516913415770580",
+    "username": "tim_cook",
+    "source_url": "https://x.com/tim_cook/status/2120516913415770580",
+    "post_published_at_utc": "2026-11-11T14:00:04Z",
+    "capture_requested_at_utc": "2026-11-11T14:31:01Z",
+    "local_archive_completed_at_utc": "2026-11-11T14:31:08Z",
+    "record_prepared_at_utc": "2026-11-11T14:32:01Z",
+    "provider_rendered_at_utc": null,
+    "provider_cache_status": "unknown",
+    "provider": "Microlink Screenshot API",
+    "microlink_asset_url": "https://iad.microlink.io/bSaCWOWGHdkGkVppsO2JZxe8til7zvQ0_13J3c554_d9OphX5FZTk6GivJcXyCZ-iebWDEF5YQeNGmrzqg_sqg.png",
+    "request_parameters": {
+        "url": "https://x.com/tim_cook/status/2120516913415770580",
+        "screenshot": "true",
+        "meta": "false",
+        "prerender": "true",
+        "screenshot.type": "png",
+        "waitForTimeout": "3s",
+        "styles": "#layers,[role=\"dialog\"],[aria-modal=\"true\"],[data-testid=\"mask\"]{display:none!important}",
+        "viewport.width": 1000,
+        "viewport.height": 1200,
+        "data.pageText.selector": "body",
+        "data.pageText.attr": "text"
+    },
+    "capture_configuration_source": "saved_request_parameters",
+    "image": {
+        "filename": "screenshot.png",
+        "media_type": "image/png",
+        "bytes": 1352520,
+        "width": 2000,
+        "height": 2400,
+        "sha256": "c50015705227aa826e041d10ed7e5410a54476ca7e1905b7f8af9c338fbc03bc"
+    },
+    "archive_repositories": [
+        "platformalerts/bigtechalert"
+    ],
+    "github_path": "captures/2026/11/11/tim_cook-2120516913415770580/20261111T143108Z-c50015705227"
+}
