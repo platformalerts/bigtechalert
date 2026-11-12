@@ -1,0 +1,34 @@
+# Archived X screenshot — @elonmusk
+
+![Screenshot of the X post by @elonmusk](./screenshot.png)
+
+[Full-size image](./screenshot.png) · [Full metadata](./metadata.json)
+
+| Record | Value |
+|---|---|
+| Original post | https://x.com/elonmusk/status/2120814162788200489 |
+| Author | @elonmusk |
+| Post published (UTC) | 2026-11-12T09:41:13Z |
+| Screenshot requested (UTC) | 2026-11-12T10:14:01Z |
+| Image saved locally (UTC) | 2026-11-12T10:14:09Z |
+| Record prepared (UTC) | 2026-11-12T10:15:01Z |
+| File | `screenshot.png` |
+| Dimensions | 2000 × 2400 px |
+
+## Method
+
+Automated screenshot of the original X page using the Microlink Screenshot API. The PNG was downloaded and preserved without further image editing or recompression. Full configuration is recorded in `metadata.json`.
+
+The request used a 1000 × 1200 CSS-pixel viewport, JavaScript prerendering and a three-second wait. X popup/dialog layers were hidden to keep them from covering the post.
+
+Surrounding posts and replies may be included. Content outside the viewport is excluded; videos appear as still images. Microlink may serve cached images: the provider's exact rendering time is unknown. The timestamps above describe the request and local archiving in our system.
+
+Asset returned by Microlink: [PNG](https://iad.microlink.io/ycUJCKDxcSq5O7AMcFLHrTtno4KqXbpWm3BlgTuzrOcxvwOy7vuU-PRG0rGidmZ0L1DWEiw7u1_0Wy3GgKXtTg.png)
+
+## Integrity
+
+SHA-256 (`screenshot.png`):
+
+`dc22a7745533cd028e2016722741799ec69dab0f3860ecc41f3bdfb8b4755110`
+
+This fingerprint verifies that a copy matches this image; it does not independently certify the capture time. Each new capture is stored in a separate folder. The first publication of this folder is recorded in GitHub's commit history.
