@@ -1,0 +1,41 @@
+{
+    "schema_version": 1,
+    "capture_id": "2121489252072693925-20261114T133337Z-f096a893eb26",
+    "tweet_id": "2121489252072693925",
+    "username": "elonmusk",
+    "source_url": "https://x.com/elonmusk/status/2121489252072693925",
+    "post_published_at_utc": "2026-11-14T06:23:47Z",
+    "capture_requested_at_utc": "2026-11-14T13:33:30Z",
+    "local_archive_completed_at_utc": "2026-11-14T13:33:37Z",
+    "record_prepared_at_utc": "2026-11-14T13:34:16Z",
+    "provider_rendered_at_utc": null,
+    "provider_cache_status": "unknown",
+    "provider": "Microlink Screenshot API",
+    "microlink_asset_url": "https://iad.microlink.io/iOoBM6Z7b2XS8JcyLorFV0bNv41LaaOhb9fAfu1iu8190fqqlmODWp5mckjk3ZVQJkoygSd4HQN3TOK8R_nVNw.png",
+    "request_parameters": {
+        "url": "https://x.com/elonmusk/status/2121489252072693925",
+        "screenshot": "true",
+        "meta": "false",
+        "prerender": "true",
+        "screenshot.type": "png",
+        "waitForTimeout": "3s",
+        "styles": "#layers,[role=\"dialog\"],[aria-modal=\"true\"],[data-testid=\"mask\"]{display:none!important}",
+        "viewport.width": 1000,
+        "viewport.height": 1200,
+        "data.pageText.selector": "body",
+        "data.pageText.attr": "text"
+    },
+    "capture_configuration_source": "saved_request_parameters",
+    "image": {
+        "filename": "screenshot.png",
+        "media_type": "image/png",
+        "bytes": 1440989,
+        "width": 2000,
+        "height": 2400,
+        "sha256": "f096a893eb267ed42a6d0dac192998b6a43a1dfd1eb77e172f8dc8227356aac3"
+    },
+    "archive_repositories": [
+        "platformalerts/bigtechalert"
+    ],
+    "github_path": "captures/2026/11/14/elonmusk-2121489252072693925/20261114T133337Z-f096a893eb26"
+}
