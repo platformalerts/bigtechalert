@@ -1,0 +1,41 @@
+{
+    "schema_version": 1,
+    "capture_id": "2121960032874999988-20261115T143309Z-6d6b346659ff",
+    "tweet_id": "2121960032874999988",
+    "username": "grok",
+    "source_url": "https://x.com/grok/status/2121960032874999988",
+    "post_published_at_utc": "2026-11-15T13:34:30Z",
+    "capture_requested_at_utc": "2026-11-15T14:33:01Z",
+    "local_archive_completed_at_utc": "2026-11-15T14:33:09Z",
+    "record_prepared_at_utc": "2026-11-15T14:34:01Z",
+    "provider_rendered_at_utc": null,
+    "provider_cache_status": "unknown",
+    "provider": "Microlink Screenshot API",
+    "microlink_asset_url": "https://iad.microlink.io/P9zcdod1azv9h-KEkCmGzAhMjMpoEywIDA170LbEwE8bOFtAVxY-660yvunxqKqYmrpsgldkQ4oE2KNXsqwJyw.png",
+    "request_parameters": {
+        "url": "https://x.com/grok/status/2121960032874999988",
+        "screenshot": "true",
+        "meta": "false",
+        "prerender": "true",
+        "screenshot.type": "png",
+        "waitForTimeout": "3s",
+        "styles": "#layers,[role=\"dialog\"],[aria-modal=\"true\"],[data-testid=\"mask\"]{display:none!important}",
+        "viewport.width": 1000,
+        "viewport.height": 1200,
+        "data.pageText.selector": "body",
+        "data.pageText.attr": "text"
+    },
+    "capture_configuration_source": "saved_request_parameters",
+    "image": {
+        "filename": "screenshot.png",
+        "media_type": "image/png",
+        "bytes": 297403,
+        "width": 2000,
+        "height": 2400,
+        "sha256": "6d6b346659ff9d06adb0d6076b49cae52e8b27780b46fc510e1f5ae10618100f"
+    },
+    "archive_repositories": [
+        "platformalerts/bigtechalert"
+    ],
+    "github_path": "captures/2026/11/15/grok-2121960032874999988/20261115T143309Z-6d6b346659ff"
+}
