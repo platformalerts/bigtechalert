@@ -1,0 +1,41 @@
+{
+    "schema_version": 1,
+    "capture_id": "2123085601520197974-20261118T162210Z-3ae5db66009f",
+    "tweet_id": "2123085601520197974",
+    "username": "nvidia",
+    "source_url": "https://x.com/nvidia/status/2123085601520197974",
+    "post_published_at_utc": "2026-11-18T16:07:07Z",
+    "capture_requested_at_utc": "2026-11-18T16:22:01Z",
+    "local_archive_completed_at_utc": "2026-11-18T16:22:10Z",
+    "record_prepared_at_utc": "2026-11-18T16:23:01Z",
+    "provider_rendered_at_utc": null,
+    "provider_cache_status": "unknown",
+    "provider": "Microlink Screenshot API",
+    "microlink_asset_url": "https://iad.microlink.io/OJ7favoWAkDNJrn-hF72XDH4lOLk48D7vu7LBe4OV-LTtkF-x6-0OK81u6heEMa4BTcUP_BxRJ8Lc3SqFSGTrQ.png",
+    "request_parameters": {
+        "url": "https://x.com/nvidia/status/2123085601520197974",
+        "screenshot": "true",
+        "meta": "false",
+        "prerender": "true",
+        "screenshot.type": "png",
+        "waitForTimeout": "3s",
+        "styles": "#layers,[role=\"dialog\"],[aria-modal=\"true\"],[data-testid=\"mask\"]{display:none!important}",
+        "viewport.width": 1000,
+        "viewport.height": 1200,
+        "data.pageText.selector": "body",
+        "data.pageText.attr": "text"
+    },
+    "capture_configuration_source": "saved_request_parameters",
+    "image": {
+        "filename": "screenshot.png",
+        "media_type": "image/png",
+        "bytes": 1438863,
+        "width": 2000,
+        "height": 2400,
+        "sha256": "3ae5db66009f07912df3cb7afdf8df17350662bb0987dbce2c495b4d231667d5"
+    },
+    "archive_repositories": [
+        "platformalerts/bigtechalert"
+    ],
+    "github_path": "captures/2026/11/18/nvidia-2123085601520197974/20261118T162210Z-3ae5db66009f"
+}
